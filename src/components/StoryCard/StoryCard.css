@@ -1,0 +1,12 @@
+.story-card__paper {
+  background-color: #e6fffa;
+  color: #39504c;
+}
+.story-card__author-btn {
+  width: 100%;
+}
+.story-card__skeleton {
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=StoryCard.css.map */
